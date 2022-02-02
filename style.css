@@ -1,0 +1,35 @@
+body
+{
+	background-color: gray; 
+	font-family: Verdana;
+	font-size: 22px;
+	color: white;
+}
+
+h1
+{
+	font-size: 30px;
+	color: black !important;
+}
+h2
+{
+	font-size: 24px;
+	color: black !important;
+}
+/* Nieodwiedzony link */
+a:link
+{
+	color: yellow;
+}
+
+/* Odwiedzony link */
+a:visited
+{
+	color:yellow;
+}
+
+/* Link po najechaniu kursorem */
+a:hover
+{
+	color: red;
+}
